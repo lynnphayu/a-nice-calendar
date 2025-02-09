@@ -1,0 +1,146 @@
+{
+  "subscriptions": {
+    "Spotify": [
+      {
+        "plan": "Individual",
+        "price": "$10.99/month",
+        "logo": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png",
+        "description": "Ad-free music streaming with offline playback."
+      },
+      {
+        "plan": "Duo",
+        "price": "$14.99/month",
+        "logo": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png",
+        "description": "Two Premium accounts for couples living together."
+      },
+      {
+        "plan": "Family",
+        "price": "$16.99/month",
+        "logo": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png",
+        "description": "Up to 6 Premium accounts for family members living together."
+      },
+      {
+        "plan": "Student",
+        "price": "$5.99/month",
+        "logo": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png",
+        "description": "Discounted Premium for eligible students."
+      }
+    ],
+    "Netflix": [
+      {
+        "plan": "Standard",
+        "price": "$15.49/month",
+        "logo": "https://assets.brand.microsites.netflix.io/assets/8a4c9a6b-6a2b-4a6e-83f9-394e7d9f902f_cm_1024w.png",
+        "description": "Full HD streaming on two devices."
+      },
+      {
+        "plan": "Premium",
+        "price": "$19.99/month",
+        "logo": "https://assets.brand.microsites.netflix.io/assets/8a4c9a6b-6a2b-4a6e-83f9-394e7d9f902f_cm_1024w.png",
+        "description": "4K UHD streaming on four devices."
+      }
+    ],
+    "Apple Music": [
+      {
+        "plan": "Individual",
+        "price": "$10.99/month",
+        "logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202301210710",
+        "description": "Ad-free music with exclusive content."
+      },
+      {
+        "plan": "Family",
+        "price": "$16.99/month",
+        "logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202301210710",
+        "description": "Up to 6 members with separate accounts."
+      },
+      {
+        "plan": "Student",
+        "price": "$5.99/month",
+        "logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202301210710",
+        "description": "Discounted plan for eligible students."
+      },
+      {
+        "plan": "Voice",
+        "price": "$4.99/month",
+        "logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202301210710",
+        "description": "Access to music using Siri on Apple devices."
+      }
+    ],
+    "Disney+": [
+      {
+        "plan": "Standard",
+        "price": "S$15.98/month",
+        "logo": "https://lumiere-a.akamaihd.net/v1/images/logos_disneyplus_1_5ce9c8e2.png",
+        "description": "Access to Disney, Pixar, Marvel, and more."
+      },
+      {
+        "plan": "Premium",
+        "price": "S$18.98/month",
+        "logo": "https://lumiere-a.akamaihd.net/v1/images/logos_disneyplus_1_5ce9c8e2.png",
+        "description": "4K streaming and offline downloads."
+      }
+    ],
+    "Amazon Prime Video": [
+      {
+        "plan": "Standard",
+        "price": "$8.99/month",
+        "logo": "https://m.media-amazon.com/images/G/01/digital/video/acquisition/amazon_video_light_on_dark.png",
+        "description": "Unlimited streaming of movies and TV shows."
+      }
+    ],
+    "YouTube Premium": [
+      {
+        "plan": "Individual",
+        "price": "$13.99/month",
+        "logo": "https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg?cache=9d1f9f7",
+        "description": "Ad-free YouTube and background playback."
+      },
+      {
+        "plan": "Family",
+        "price": "$22.99/month",
+        "logo": "https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg?cache=9d1f9f7",
+        "description": "Up to 5 members for YouTube Premium."
+      },
+      {
+        "plan": "Student",
+        "price": "$7.99/month",
+        "logo": "https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg?cache=9d1f9f7",
+        "description": "Discounted plan for eligible students."
+      }
+    ],
+    "Max": [
+      {
+        "plan": "With Ads",
+        "price": "$9.99/month",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Max_%28streaming_service%29_logo.svg",
+        "description": "Stream with limited ads."
+      },
+      {
+        "plan": "Ad-Free",
+        "price": "$15.99/month",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Max_%28streaming_service%29_logo.svg",
+        "description": "Stream without ads."
+      },
+      {
+        "plan": "Ultimate Ad-Free",
+        "price": "$19.99/month",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Max_%28streaming_service%29_logo.svg",
+        "description": "Stream in 4K UHD with Dolby Atmos sound."
+      }
+    ],
+    "Hulu": [
+      {
+        "plan": "With Ads",
+        "price": "$7.99/month",
+        "logo": "https://www.hulu.com/static/hitch/s3/2020-10/Hulu_Logo-01.png",
+        "description": "Access to streaming library with ads."
+      },
+      {
+        "plan": "No Ads",
+        "price": "$14.99/month",
+        "logo": "https://www.hulu.com/static/hitch/s3/2020-10/Hulu_Logo-01.png",
+        "description": "Ad-free streaming of TV shows and movies."
+      }
+    ]
+  }
+}

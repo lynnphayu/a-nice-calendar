@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "apps/subscription"
+		},
+		{
+			"path": "apps/user"
+		},
+		{
+			"path": "apps/frontend"
+		}
+	],
+	"settings": {}
+}

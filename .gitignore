@@ -1,0 +1,44 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Build outputs
+dist
+dist-ssr
+*.local
+.next
+out
+build
+
+# Logs
+logs
+*.log
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
