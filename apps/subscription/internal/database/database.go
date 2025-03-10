@@ -22,12 +22,6 @@ type Database struct {
 // NewDatabase creates a new database instance with the given configuration
 func NewDatabase(config Config) (*Database, error) {
 	dbURL := config.URL
-	if dbURL == "" {
-		dbURL = os.Getenv("DATABASE_URL")
-		if dbURL == "" {
-			dbURL = "host=localhost user=postgres password=postgres dbname=subscriptions port=5432 sslmode=disable"
-		}
-	}
 
 	db, err := gorm.Open(postgres.Open(dbURL), &gorm.Config{})
 	if err != nil {

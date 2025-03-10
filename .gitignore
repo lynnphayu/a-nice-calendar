@@ -42,3 +42,5 @@ go.work
 *.njsproj
 *.sln
 *.sw?
+
+.data
